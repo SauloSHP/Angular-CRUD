@@ -1,7 +1,6 @@
 # TelaCadastro
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
-
+![image](https://user-images.githubusercontent.com/81242345/147891481-1cd817b0-f418-4eb2-ac8b-fee6dc14acc1.png)
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
