@@ -1,26 +1,8 @@
 # TelaCadastro
 
+Criado com Angular 12, este WebApp permite criar, editar e excluir elementos de uma tabela criada com Material Design.
+
 ![image](https://user-images.githubusercontent.com/81242345/147891481-1cd817b0-f418-4eb2-ac8b-fee6dc14acc1.png)
-## Development server
+![image](https://user-images.githubusercontent.com/81242345/147891518-be83b65a-2498-4fd7-8fbe-136302d20113.png)
+![image](https://user-images.githubusercontent.com/81242345/147891527-a703e009-b512-478b-a2d8-e29587c18da6.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
